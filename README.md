@@ -2,7 +2,7 @@
 
 This was based on a project by Maven analytics. I adjusted the data to make it suitable to the British context.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/RN255/Coffee-Shop-Sales-Excel/blob/main/Screenshot-maven.jpg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](../main/Screenshot-maven.jpg)
 
 The workflow was as follows:
 
