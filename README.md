@@ -23,7 +23,7 @@ The workflow was as follows:
 4. Create pivot tables for the following:
     - Revenue by month
     - Revenue by Day of week
-    - Reveue by hour of day
+    - Revenue by hour of day
     - Revenue by product category
     - Top ten selling product types
 
